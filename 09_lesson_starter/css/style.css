@@ -7,6 +7,10 @@
   text-align: center;
 }
 
+body {
+  font-family: "Roboto", sans-serif;
+}
+
 nav {
   font-size: 4rem;
   margin: 0.3em;
